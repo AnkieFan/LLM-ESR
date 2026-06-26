@@ -101,7 +101,7 @@ Built on the original LLM-ESR implementation (Liu et al., 2024). Reproduction an
 ```
 
 ## Poster
-![poster](poster.png)
+![poster](Poster.png)
 
 ---
 
